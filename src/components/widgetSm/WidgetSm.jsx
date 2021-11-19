@@ -1,5 +1,4 @@
 import './widgetSm.scss'
-import profile from '../../assets/profile.jpeg'
 import { Visibility } from '@material-ui/icons'
 
 function WidgetSm() {
@@ -8,7 +7,7 @@ function WidgetSm() {
             <span className="widgetSmTitle">New Join Members</span>
             <ul className="widgetSmList">
                 <li className="widgetSmListItem">
-                    <img src={profile} alt="" className="widgetSmImg" />
+                    <img src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?cs=srgb&dl=pexels-pixabay-415829.jpg&fm=jpg" alt="" className="widgetSmImg" />
                     <div className="widgetSmUser">
                         <span className="widgetSmUsername">Anna Kellen</span>
                         <span className="widgetSmUserTitle">Back End Developer</span>
@@ -19,7 +18,7 @@ function WidgetSm() {
                     </button>
                 </li>
                 <li className="widgetSmListItem">
-                    <img src={profile} alt="" className="widgetSmImg" />
+                    <img src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?cs=srgb&dl=pexels-pixabay-415829.jpg&fm=jpg" alt="" className="widgetSmImg" />
                     <div className="widgetSmUser">
                         <span className="widgetSmUsername">Anna Kellen</span>
                         <span className="widgetSmUserTitle">Back End Developer</span>
@@ -30,7 +29,7 @@ function WidgetSm() {
                     </button>
                 </li>
                 <li className="widgetSmListItem">
-                    <img src={profile} alt="" className="widgetSmImg" />
+                    <img src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?cs=srgb&dl=pexels-pixabay-415829.jpg&fm=jpg" alt="" className="widgetSmImg" />
                     <div className="widgetSmUser">
                         <span className="widgetSmUsername">Anna Kellen</span>
                         <span className="widgetSmUserTitle">Back End Developer</span>
@@ -41,7 +40,7 @@ function WidgetSm() {
                     </button>
                 </li>
                 <li className="widgetSmListItem">
-                    <img src={profile} alt="" className="widgetSmImg" />
+                    <img src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?cs=srgb&dl=pexels-pixabay-415829.jpg&fm=jpg" alt="" className="widgetSmImg" />
                     <div className="widgetSmUser">
                         <span className="widgetSmUsername">Anna Kellen</span>
                         <span className="widgetSmUserTitle">Back End Developer</span>
@@ -52,7 +51,7 @@ function WidgetSm() {
                     </button>
                 </li>
                 <li className="widgetSmListItem">
-                    <img src={profile} alt="" className="widgetSmImg" />
+                    <img src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?cs=srgb&dl=pexels-pixabay-415829.jpg&fm=jpg" alt="" className="widgetSmImg" />
                     <div className="widgetSmUser">
                         <span className="widgetSmUsername">Anna Kellen</span>
                         <span className="widgetSmUserTitle">Back End Developer</span>

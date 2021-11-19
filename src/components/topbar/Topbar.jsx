@@ -1,6 +1,5 @@
 import './topbar.scss'
 import { NotificationsNone, Language, Settings } from '@material-ui/icons'
-import profile_pic from '../../assets/profile.jpeg'
 
 export const Topbar = () => {
     return (
@@ -23,7 +22,7 @@ export const Topbar = () => {
                     <div className="topbarIcons">
                         <Settings />
                     </div>
-                    <img src={profile_pic} alt="" className="topAvatar" />
+                    <img src="https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?cs=srgb&dl=pexels-andrew-dick-697509.jpg&fm=jpg" alt="" className="topAvatar" />
                 </div>
             </div>
         </div>
