@@ -1,107 +1,16 @@
 import Topbar from './components/topbar/Topbar'
+import Sidebar from './components/sidebar/Sidebar'
+import Home from './pages/home/Home'
+import './app.scss'
 
 const App = () => {
   return (
     <div>
       <Topbar />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
-      test<br />
+      <div className="container">
+        <Sidebar />
+        <Home />
+      </div>
     </div>);
 };
 

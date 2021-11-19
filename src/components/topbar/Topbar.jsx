@@ -17,7 +17,7 @@ export const Topbar = () => {
                         <span className="topIconBadge">2</span>
                     </div>
                     <div className="topbarIcons">
-                        <Language />
+                        <Language /> 
                         <span className="topIconBadge">2</span>
                     </div>
                     <div className="topbarIcons">
