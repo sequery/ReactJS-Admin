@@ -1,5 +1,5 @@
 # Definition
-Admin component written in pure ReactJS.
+Admin component written in pure ReactJS and styled with Sass.
 
 
 # Installation
