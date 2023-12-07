@@ -48,3 +48,71 @@ export const userData = [
         "Active User": 3190
       },
   ];
+
+
+
+  export const userRows = [
+    {
+        id: 1, username: 'Jon Snow',
+        avatar: 'https://images.pexels.com/photos/2888371/pexels-photo-2888371.jpeg?cs=srgb&dl=pexels-fl%C3%A1vio-santos-2888371.jpg&fm=jpg',
+        email: 'jon@gmail.com',
+        status: 'active',
+        transaction: '$120.00'
+    },
+    {
+      id: 2, username: 'Jon Snow',
+      avatar: 'https://images.pexels.com/photos/2888371/pexels-photo-2888371.jpeg?cs=srgb&dl=pexels-fl%C3%A1vio-santos-2888371.jpg&fm=jpg',
+      email: 'jon@gmail.com',
+      status: 'active',
+      transaction: '$120.00'
+    },
+    {
+      id: 3, username: 'Jon Snow',
+      avatar: 'https://images.pexels.com/photos/2888371/pexels-photo-2888371.jpeg?cs=srgb&dl=pexels-fl%C3%A1vio-santos-2888371.jpg&fm=jpg',
+      email: 'jon@gmail.com',
+      status: 'active',
+      transaction: '$120.00'
+    },
+    {
+      id: 4, username: 'Jon Snow',
+      avatar: 'https://images.pexels.com/photos/2888371/pexels-photo-2888371.jpeg?cs=srgb&dl=pexels-fl%C3%A1vio-santos-2888371.jpg&fm=jpg',
+      email: 'jon@gmail.com',
+      status: 'active',
+      transaction: '$120.00'
+    },
+    {
+      id: 5, username: 'Jon Snow',
+      avatar: 'https://images.pexels.com/photos/2888371/pexels-photo-2888371.jpeg?cs=srgb&dl=pexels-fl%C3%A1vio-santos-2888371.jpg&fm=jpg',
+      email: 'jon@gmail.com',
+      status: 'active',
+      transaction: '$120.00'
+    },
+    {
+      id: 6, username: 'Jon Snow',
+      avatar: 'https://images.pexels.com/photos/2888371/pexels-photo-2888371.jpeg?cs=srgb&dl=pexels-fl%C3%A1vio-santos-2888371.jpg&fm=jpg',
+      email: 'jon@gmail.com',
+      status: 'active',
+      transaction: '$120.00'
+    },
+    {
+        id: 7, username: 'Jon Snow',
+        avatar: 'https://images.pexels.com/photos/2888371/pexels-photo-2888371.jpeg?cs=srgb&dl=pexels-fl%C3%A1vio-santos-2888371.jpg&fm=jpg',
+        email: 'jon@gmail.com',
+        status: 'active',
+        transaction: '$120.00'
+    },
+    {
+        id: 8, username: 'Jon Snow',
+        avatar: 'https://images.pexels.com/photos/2888371/pexels-photo-2888371.jpeg?cs=srgb&dl=pexels-fl%C3%A1vio-santos-2888371.jpg&fm=jpg',
+        email: 'jon@gmail.com',
+        status: 'active',
+        transaction: '$120.00'
+    },
+    {
+        id: 9, username: 'Jon Snow',
+        avatar: 'https://images.pexels.com/photos/2888371/pexels-photo-2888371.jpeg?cs=srgb&dl=pexels-fl%C3%A1vio-santos-2888371.jpg&fm=jpg',
+        email: 'jon@gmail.com',
+        status: 'active',
+        transaction: '$120.00'
+    },
+];
