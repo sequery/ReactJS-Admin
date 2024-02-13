@@ -21,7 +21,8 @@ const App = () => {
           <Route path="/user/:userId" element={<User />}></Route>
         </Routes>
       </div>
-    </Router>);
+    </Router>
+    );
 };
 
 export default App;
